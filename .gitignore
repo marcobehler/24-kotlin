@@ -3,6 +3,7 @@
 .gradle
 build/
 
+.idea
 
 ### Maven
 target
